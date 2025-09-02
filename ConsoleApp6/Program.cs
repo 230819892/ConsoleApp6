@@ -1,4 +1,5 @@
-﻿char[,] board = new char[3, 3]; 
+﻿
+char[,] board = new char[3, 3]; 
 InitializeBoard(board);   
 char currentPlayer = 'X'; 
 
